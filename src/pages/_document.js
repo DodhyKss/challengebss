@@ -4,6 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head />
+      <title>Challenge BSS</title>
       <body className="antialiased">
         <Main />
         <NextScript />
